@@ -1,2 +1,4 @@
 # FlyAway.com
 Simplilearn Second Project
+
+This Project contains a website portal of online flight booking company FlyAway. This website contains sign up page for new customers, a login page for old customers who had already signed up and also admin login is a platform where website admin (only one) able to access change the password .A search form in the homepage to allow entry of travel details, like the date of travel, source, destination, and the number of persons. Based on the travel details entered, it will show the available flights with their ticket prices. Once a person selects a flight to book, they will be taken to a register page where they must fill in their personal details. In the next page, they are shown the flight details of the flight that they are booking, and the payment is done via a dummy payment gateway. 
